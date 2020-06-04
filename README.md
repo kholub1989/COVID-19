@@ -2,6 +2,10 @@
 
 COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)
 
+[Deployment on Netlify!](https://inspiring-dubinsky-f594fc.netlify.app/)
+
+![COVID-19](https://i.ibb.co/PtxYv5G/Screen-Shot-2020-06-04-at-10-36-58-AM.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
