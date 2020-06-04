@@ -1,3 +1,7 @@
+# COVID-19 Tracker
+
+COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
